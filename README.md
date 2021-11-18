@@ -1,2 +1,2 @@
-# Python-
-🐍Python
+# Python
+🐍Python для анализа данных
